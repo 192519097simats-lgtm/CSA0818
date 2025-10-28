@@ -1,0 +1,9 @@
+2)find a]sqr of number b]cube of number
+a]
+a=int(input("enter a numbr"))
+w=a*a
+print("the sqr of number is",w)
+b]
+a=int(input("enter a number")
+v=a*a*a
+print("the cube of number is",v)
