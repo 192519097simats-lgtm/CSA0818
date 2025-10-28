@@ -1,1 +1,18 @@
-PRINT("SHATHIKA BEGAM.A")
+1)wap two numbers without using third variable
+a=int(input("enter a number")
+b=int(input("enter a amount")
+a=a+b
+b=a-b
+a=a-b
+print(a,b)
+2)find a]sqr of number b]cube of number
+a]
+a=int(input("enter a numbr"))
+w=a*a
+print("the sqr of number is",w)
+b]
+a=int(input("enter a number")
+v=a*a*a
+print("the cube of number is",v)
+3)convert the temperature from celsius into farenheit
+a=int(input("enter the temp in celsius")
