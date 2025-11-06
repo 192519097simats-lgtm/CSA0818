@@ -1,0 +1,9 @@
+numbers = [10, 20, 30, 40, 50]
+
+num = int(input("Enter the number to remove: "))
+
+if num in numbers:
+    numbers.remove(num)
+    print("Updated list:", numbers)
+else:
+    print("Number not found in the list.")
